@@ -1,5 +1,5 @@
-## QUIZZZ
-# Simple quiz web app built in React
+# QUIZZZ
+## Simple quiz web app built in React
 
 # Getting Started with Create React App
 
